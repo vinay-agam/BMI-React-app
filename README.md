@@ -8,4 +8,5 @@ A simple and user-friendly Body Mass Index (BMI) calculator built with React. Th
 - Responsive design for mobile and desktop
 - Interactive UI with health categeries
 
-https://vinay-agam.github.io/bmi/
+https://vinay-agam.github.io/BMI-React-app/
+
